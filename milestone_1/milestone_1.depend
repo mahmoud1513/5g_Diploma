@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1726752076 source:c:\users\clt\desktop\c++ course\part_1_project_siemens\milestone_1\main_project.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<sstream>
+	<iomanip>
+	<cmath>
+	"generate_packets_headers.h"
+
+1726751850 source:c:\users\clt\desktop\c++ course\part_1_project_siemens\milestone_1\generate_packets_functions.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<sstream>
+	<iomanip>
+	<cmath>
+
+1726751850 c:\users\clt\desktop\c++ course\part_1_project_siemens\milestone_1\generate_packets_headers.h
+	<iostream>
+
