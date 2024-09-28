@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1727555790 source:c:\users\clt\desktop\c++ course\part_1_project_siemens\milstone_2\ecpri.cpp
+	"ECPRI.h"
+
+1727555805 c:\users\clt\desktop\c++ course\part_1_project_siemens\milstone_2\ecpri.h
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<iomanip>
+	<vector>
+	<cstdint>
+	<zlib.h>
+
+1727556067 source:c:\users\clt\desktop\c++ course\part_1_project_siemens\milstone_2\eth.cpp
+	<iostream>
+	"Eth.h"
+
+1727555638 c:\users\clt\desktop\c++ course\part_1_project_siemens\milstone_2\eth.h
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<iomanip>
+	<vector>
+	<cstdint>
+	<zlib.h>
+
+1727558809 source:c:\users\clt\desktop\c++ course\part_1_project_siemens\milstone_2\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+	<vector>
+	<cstdint>
+	<cmath>
+	"Eth.h"
+	"ECPRI.h"
+	"ORAN.h"
+
+1727560509 c:\users\clt\desktop\c++ course\part_1_project_siemens\milstone_2\oran.h
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<iomanip>
+	<vector>
+	<cstdint>
+	<zlib.h>
+	<random>
+
+1727560507 source:c:\users\clt\desktop\c++ course\part_1_project_siemens\milstone_2\oran.cpp
+	"ORAN.h"
+
